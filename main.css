@@ -6,10 +6,12 @@ h1 {
     color: rgb(77, 65, 52);
     text-align: center;
 }
+h2 {
+    color: rgb(77, 65, 52);
+}
 ul {
     list-style-type: none;
 }
 .center {
-    margin: auto;
-    width: 60%;
+    align-content: center; 
 }
