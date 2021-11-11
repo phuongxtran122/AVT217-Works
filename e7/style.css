@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    text-align: left;
+    font-family: Dosis;
+    color: rgb(206, 206, 206);
+}
+h1 {
+    color: indianred;
+    font-family: 'Titillium Web';
+}
+li {
+    font-weight: 400;
+    font-style: oblique;
+}
+
+.introduction {
+    color: pink;
+    font-size: larger;
+}
+.headings {
+    color: indianred;
+    font-size: x-large;
+}
+.button {
+    background-color: aquamarine;
+}
