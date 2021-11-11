@@ -6,8 +6,10 @@ h1 {
     color: rgb(77, 65, 52);
     text-align: center;
 }
+ul {
+    list-style-type: none;
+}
 .center {
-    text-align: center;
     margin: auto;
     width: 60%;
 }
