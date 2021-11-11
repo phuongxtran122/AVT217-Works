@@ -8,10 +8,19 @@ h1 {
 }
 h2 {
     color: rgb(77, 65, 52);
+    text-align: center;
 }
 ul {
     list-style-type: none;
 }
 .center {
-    align-content: center; 
+    align-content: center;
+    margin: auto;
+    width: 60%;
+}
+.align-row {
+    float: left;
+    text-align: left;
+    margin-left: 35%;
+    margin-right: 35%;
 }
